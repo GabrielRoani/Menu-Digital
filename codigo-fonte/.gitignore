@@ -1,0 +1,16 @@
+venv/
+.venv/
+
+Arquivos de Cache do Python
+pycache/
+*.pyc
+*.pyo
+*.pyd
+
+Arquivos de IDEs comuns
+.idea/
+.vscode/
+
+Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
